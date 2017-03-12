@@ -1,6 +1,6 @@
 {
   "name": "@develephant/clog",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "Like 'echo' with colors.",
   "main": "index.js",
   "scripts": {
