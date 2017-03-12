@@ -121,6 +121,8 @@ clog.ul('Underlined text using the "ul" shortcut')
 clog.rainbow('Rainbow string directly from the colors module')
 ```
 
+___All output is logged to the console.___
+
 ---
 
 #### `clog` &Star; &copy; 2017 develephant &Star; Apache-2.0 license
