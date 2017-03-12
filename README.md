@@ -18,9 +18,10 @@ const clog = require('@develephant/clog')
 
 ```js
 //log in "green"
-clog.green('some output text')
-clog.ok('some output text')
-clog.g('some output text')
+clog.green('green output string')
+clog.ok('green output string')
+clog.o('green output string')
+clog.g('green output string')
 ```
 
 ## Overview
