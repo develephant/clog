@@ -1,0 +1,31 @@
+{
+  "name": "@develephant/clog",
+  "version": "0.1.4",
+  "description": "Like 'echo' with colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develephant/clog.git"
+  },
+  "keywords": [
+    "color",
+    "log",
+    "logging",
+    "console",
+    "output",
+    "echo",
+    "stdout"
+  ],
+  "author": "develephant <code@develephant.com> (http://www.develephant.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/develephant/clog/issues"
+  },
+  "homepage": "https://github.com/develephant/clog#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
