@@ -89,6 +89,8 @@ warn:     'yellow'
 verbose:  'magenta'
 ```
 
+> All of the [colors and styles](https://github.com/marak/colors.js/#colors-and-styles) from the `colors` module are also available directly from the `clog` object.
+
 __Various Usage Examples__
 
 ```js
