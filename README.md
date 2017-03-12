@@ -20,7 +20,7 @@ const clog = require('@develephant/clog')
 //log in "green"
 clog.green('green output string')
 clog.ok('green output string')
-clog.o('green output string')
+clog.o('green output string')//"ok" alias
 clog.g('green output string')
 ```
 
